@@ -12,7 +12,7 @@ import java.util.Comparator;
  * @author wiemhjiri
  */
 public class Client{
-    
+    // classe pour representer un client 
 private int code;
 private String nom;
 private String prenom;
